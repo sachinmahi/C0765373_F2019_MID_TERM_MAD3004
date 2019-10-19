@@ -39,9 +39,9 @@ class Bill : IDisplay
     func display()
     {
         print("Bill ID : \(BillID!)")
-        print("Bill Date : \(NewDate.insertdate())")
+        print("Bill Date : \(NewDate)")
         print("Bill Type : \(BillType)")
-        print("Bill Amount : \(BillAmount!.insertCurrency())")
+        print("Bill Amount : \(BillAmount!)")
         
         }
 }
