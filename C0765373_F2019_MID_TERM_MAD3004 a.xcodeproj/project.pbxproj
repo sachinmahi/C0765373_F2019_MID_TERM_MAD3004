@@ -12,6 +12,7 @@
 		1A5E73FD235BCDCA00196302 /* IDisplay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E73FC235BCDCA00196302 /* IDisplay.swift */; };
 		1A5E73FF235BCDF100196302 /* Customer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E73FE235BCDF100196302 /* Customer.swift */; };
 		1A5E7401235BD50800196302 /* Internet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E7400235BD50800196302 /* Internet.swift */; };
+		1A5E7403235BD6A300196302 /* mobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E7402235BD6A300196302 /* mobile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		1A5E73FC235BCDCA00196302 /* IDisplay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IDisplay.swift; sourceTree = "<group>"; };
 		1A5E73FE235BCDF100196302 /* Customer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Customer.swift; sourceTree = "<group>"; };
 		1A5E7400235BD50800196302 /* Internet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Internet.swift; sourceTree = "<group>"; };
+		1A5E7402235BD6A300196302 /* mobile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mobile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				1A5E73FC235BCDCA00196302 /* IDisplay.swift */,
 				1A5E73FE235BCDF100196302 /* Customer.swift */,
 				1A5E7400235BD50800196302 /* Internet.swift */,
+				1A5E7402235BD6A300196302 /* mobile.swift */,
 			);
 			path = "C0765373_F2019_MID_TERM_MAD3004 a";
 			sourceTree = "<group>";
@@ -133,6 +136,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A5E73FB235BCC6900196302 /* Bill.swift in Sources */,
+				1A5E7403235BD6A300196302 /* mobile.swift in Sources */,
 				1A5E73F4235BCBEF00196302 /* main.swift in Sources */,
 				1A5E73FD235BCDCA00196302 /* IDisplay.swift in Sources */,
 				1A5E73FF235BCDF100196302 /* Customer.swift in Sources */,
