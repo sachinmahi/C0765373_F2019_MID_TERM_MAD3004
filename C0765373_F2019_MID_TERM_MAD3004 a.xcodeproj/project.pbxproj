@@ -15,6 +15,7 @@
 		1A5E7403235BD6A300196302 /* mobile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E7402235BD6A300196302 /* mobile.swift */; };
 		1A5E7405235BD85700196302 /* insurance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E7404235BD85700196302 /* insurance.swift */; };
 		1A5E7407235BDA2600196302 /* extensionDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E7406235BDA2600196302 /* extensionDate.swift */; };
+		1A5E7409235BDB4700196302 /* extensionFloat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5E7408235BDB4700196302 /* extensionFloat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		1A5E7402235BD6A300196302 /* mobile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mobile.swift; sourceTree = "<group>"; };
 		1A5E7404235BD85700196302 /* insurance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = insurance.swift; sourceTree = "<group>"; };
 		1A5E7406235BDA2600196302 /* extensionDate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensionDate.swift; sourceTree = "<group>"; };
+		1A5E7408235BDB4700196302 /* extensionFloat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extensionFloat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				1A5E7402235BD6A300196302 /* mobile.swift */,
 				1A5E7404235BD85700196302 /* insurance.swift */,
 				1A5E7406235BDA2600196302 /* extensionDate.swift */,
+				1A5E7408235BDB4700196302 /* extensionFloat.swift */,
 			);
 			path = "C0765373_F2019_MID_TERM_MAD3004 a";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A5E73FB235BCC6900196302 /* Bill.swift in Sources */,
+				1A5E7409235BDB4700196302 /* extensionFloat.swift in Sources */,
 				1A5E7407235BDA2600196302 /* extensionDate.swift in Sources */,
 				1A5E7403235BD6A300196302 /* mobile.swift in Sources */,
 				1A5E7405235BD85700196302 /* insurance.swift in Sources */,
