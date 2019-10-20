@@ -18,6 +18,8 @@ var internet4 = Internet(BillID: 4531, BillDate: "04/26/2019", BillType:.Interne
 var internet5 = Internet(BillID: 901, BillDate: "12/06/2019", BillType:.Internet, TotalAmount: 52.508, CompanyName: "Freedom", Internet: 67)
 
 var mobile = Mobile(BillID: 3435, BillDate: "07/09/2019", BillType: .Mobile, TotalAmount: 678.98, MobileModel: "iPhone 8Plus", MobileNumber: 9870753796, PlanName: "Premium Plus", MobileInternet: 76)
+var mobile2 = Mobile(BillID: 3768, BillDate: "06/08/2019", BillType: .Mobile, TotalAmount: 500.5, MobileModel: "iPhone XS", MobileNumber: 1276978336, PlanName: "basic", MobileInternet: 96)
+
 
 
 var insurance = Insurance(BillID: 531, BillDate: "09/30/2019", BillType: .Insurance, BillAmount: 584.7623, Provider: "INTACT", InsuranceType: .Car, StartDate: "01/09/2018", EndDate: "05/10/2021")
