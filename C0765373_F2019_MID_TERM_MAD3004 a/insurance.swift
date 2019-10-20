@@ -51,7 +51,7 @@ class Insurance : Bill
         super.display()
         print("Insurance Provider : \(Provider!)")
         print("Insurance Type : \(InsuranceType!)")
-        print("Insurance Start Date : \(NewStartDate.insertDate())")
+        print("Insurance Start Date : \(StartDate.insertDate())")
         print("Insurance End Date : \(NewEndDate.insertDate())")
 
     }
