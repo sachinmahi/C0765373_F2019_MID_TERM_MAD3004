@@ -23,7 +23,7 @@ var insurance = Insurance(BillID: 531, BillDate: "09/30/2019", BillType: .Insura
 
 
 
-var Customer = customer(CustomerID: 1, FisrtName: "SIMAR", Email: "simar.mahi@gmail.com ")
+var Customer = Customer(CustomerID: 1, FisrtName: "SIMAR", Email: "simar.mahi@gmail.com ")
 
 
 
