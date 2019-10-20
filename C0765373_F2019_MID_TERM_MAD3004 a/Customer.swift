@@ -39,7 +39,7 @@ class Customer: IDisplay
         self.CustomerId = CustomerId
         self.FirstName = FirstName
         self.LastName = LastName
-      
+        self.Email = Email
     }
     
     func display()
