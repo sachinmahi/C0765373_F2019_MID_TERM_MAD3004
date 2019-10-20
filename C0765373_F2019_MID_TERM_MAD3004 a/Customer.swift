@@ -29,7 +29,7 @@ class Customer: IDisplay
         var TotalAmount = 0.0
         for bill in billDictionary
         {
-            TotalAmount = TotalAmount + Bill.value.TotalBillAmount
+            TotalAmount = TotalAmount + Bill.values.TotalBillAmount
         }
         return TotalAmount
     }
@@ -39,7 +39,7 @@ class Customer: IDisplay
         self.CustomerId = CustomerId
         self.FirstName = FirstName
         self.LastName = LastName
-        self.Email = Email
+      
     }
     
     func display()
