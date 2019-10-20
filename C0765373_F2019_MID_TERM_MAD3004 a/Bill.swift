@@ -41,7 +41,7 @@ class Bill : IDisplay
         print("Bill ID : \(BillID!)")
         print("Bill Date : \(NewDate.insertDate())")
         print("Bill Type : \(BillType)")
-        print("Bill Amount : \(BillAmount!)")
+        print("Bill Amount : \(BillAmount.insertcurrency()!)")
         
         }
 }
