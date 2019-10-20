@@ -25,7 +25,7 @@ class Internet:Bill
     override func display() {
         super.display()
         print("Company Name : \(CompanyName!)")
-        print("Internet Usage : \(InternetUsage.insertGB())")
+        print("Internet Usage : \(InternetUsage)")
         
     }
 }
