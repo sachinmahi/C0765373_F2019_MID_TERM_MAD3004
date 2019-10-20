@@ -29,7 +29,7 @@ class Customer: IDisplay
         var TotalAmount = 0.0
         for bill in billDictionary
         {
-            TotalAmount = TotalAmount + Bill.values.TotalBillAmount
+            TotalAmount = TotalAmount + Bill.value.TotalBillAmount
         }
         return TotalAmount
     }
